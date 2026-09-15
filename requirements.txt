@@ -1,0 +1,10 @@
+# 本程序（main.py 与 plagiarism 包）只使用 Python 3.8+ 标准库，
+# 不需要安装任何第三方依赖；保留本文件是为了满足作业要求
+# "提交 python 代码时请附带上 requirements.txt"。
+#
+# 因此 `pip install -r requirements.txt` 是空操作，程序可以直接运行：
+#     python main.py <原文文件> <抄袭版论文文件> <答案文件>
+#
+# 下面两项仅用于"开发期可选工具"，不安装也不影响程序运行与单元测试：
+# coverage>=7.0   # 若希望用 coverage.py 代替标准库 trace 统计覆盖率
+# pytest>=7.0     # 若希望用 pytest 运行 tests/ 下的用例
