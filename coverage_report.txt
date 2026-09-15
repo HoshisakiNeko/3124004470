@@ -1,0 +1,15 @@
+语句覆盖率（只统计本项目的核心代码）：
+
+模块                           覆盖率     总语句     未覆盖
+------------------------------------------------
+plagiarism.cli              100%     140       0
+plagiarism.errors           100%      29       0
+plagiarism.similarity       100%      94       0
+plagiarism.textio           100%      36       0
+------------------------------------------------
+合计                        100.0%     299       0
+
+未覆盖行号（按文件）：
+  （无）
+
+标注源码已写入：C:\Users\htq20\Documents\Codex\2026-09-15\deadline-24-30-24-48-60\outputs\docs\coverage

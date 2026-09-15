@@ -1,0 +1,8 @@
+样例文件查重结果（原文 sample_data/orig.txt，指标：字符二元组 + 余弦相似度）
+
+抄袭版文件                      重复率     返回码
+----------------------------------------
+orig_add.txt              0.87       0
+orig_del.txt              0.85       0
+orig_edit.txt             0.95       0
+orig_rewrite.txt          0.10       0
